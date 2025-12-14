@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  psst
+  shining    like    gunmetal
 </div>
 
-![image alt](https://github.com/5pamton/parttwo/blob/f4662e199d2827d234933e5ef5ce110d8902457f/Untitled569_20251213205610.png)
+![image alt](https://github.com/defernulls/parttwo/blob/6cf5385e6a1002f67a333260d62f07e240ec783a/Untitled570_20251214072130.png)
