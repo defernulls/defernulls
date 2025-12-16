@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟
+  𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟
+  so  much  love
 </div>
 
-![image alt](https://github.com/defernulls/parttwo/blob/6cf5385e6a1002f67a333260d62f07e240ec783a/Untitled570_20251214072130.png)
+![image alt](https://github.com/defernulls/parttwo/blob/bffe58e3d8462cd1a3d3317fdffb96796f936f7d/Untitled570_20251216140906.png)
